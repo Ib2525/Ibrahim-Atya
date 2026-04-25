@@ -33,7 +33,7 @@
 ### 📂 Top Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Ibrahim Atya/ELEVATE-ECommerce-Analytics-PowerBI">
+  <a href="https://github.com/Ibrahim-Atya/ELEVATE-ECommerce-Analytics-PowerBI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ibrahim-Atya&repo=ELEVATE-ECommerce-Analytics-PowerBI&theme=radical" alt="ELEVATE Power BI" />
   </a>
   <a href="https://github.com/Ibrahim-Atya/HR-Analytics-Dashboard-Excel">
