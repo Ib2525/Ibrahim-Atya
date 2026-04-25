@@ -116,3 +116,16 @@
 <p align="center">
   <i>"Discipline is the bridge between goals and accomplishment."</i>
 </p>
+### 🤝 Connect with Me
+
+<div align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+  </a>
+  <a href="https://wa.me/YOUR_PHONE_NUMBER" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" />
+  </a>
+</div>
