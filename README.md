@@ -1,8 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Ibrahim Ahmed Atya Karm 👋</h1>
-  <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ib2525&theme=radical&no-frame=true&margin-w=15" alt="trophy" />
-</div>
+  
 
 <h1 align="center">Hi there, I'm Ibrahim Atya! 👋</h1>
 <h3 align="center">📊 Data Analyst | BI Developer | Transforming Data into Decisions</h3>
