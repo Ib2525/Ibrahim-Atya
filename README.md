@@ -33,14 +33,14 @@
 ### 📂 Top Featured Projects
 
 <div align="center">
-  <a href="https://github.com/YOUR_USERNAME/ELEVATE-ECommerce-Analytics-PowerBI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=ELEVATE-ECommerce-Analytics-PowerBI&theme=radical" alt="ELEVATE Power BI" />
+  <a href="https://github.com/ibrahim-atya/ELEVATE-ECommerce-Analytics-PowerBI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ibrahim-atya&repo=ELEVATE-ECommerce-Analytics-PowerBI&theme=radical" alt="ELEVATE Power BI" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME/HR-Analytics-Dashboard-Excel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=HR-Analytics-Dashboard-Excel&theme=radical" alt="HR Analytics Excel" />
+  <a href="https://github.com/ibrahim-atya/HR-Analytics-Dashboard-Excel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ibrahim-atya&repo=HR-Analytics-Dashboard-Excel&theme=radical" alt="HR Analytics Excel" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME/Sales-Analysis-Excel-Dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Sales-Analysis-Excel-Dashboard&theme=radical" alt="Sales Analytics Excel" />
+  <a href="https://github.com/ibrahim-atya/Sales-Analysis-Excel-Dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ibrahim-atya&repo=Sales-Analysis-Excel-Dashboard&theme=radical" alt="Sales Analytics Excel" />
   </a>
 </div>
 <hr>
