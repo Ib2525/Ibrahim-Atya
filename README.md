@@ -4,15 +4,41 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Ib2525&theme=radical&no-frame=true&margin-w=15" alt="trophy" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ib2525&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ib2525&layout=compact&theme=radical&hide_progress=true" alt="top langs" />
-</div>
-  <p><strong>Data Analyst | AI Practitioner | BIS Graduate</strong></p>
-</div>
+<h1 align="center">Hi there, I'm Ibrahim Atya! 👋</h1>
+<h3 align="center">📊 Data Analyst | BI Developer | Transforming Data into Decisions</h3>
 
-<hr>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=217346&center=true&vCenter=true&width=500&lines=BSc+Business+Information+Systems+(BIS);MCIT+Digital+Pioneers+(Digilians)+Trainee;Google+Certified+Data+Analyst;Advanced+Excel+%26+Power+BI+Expert" alt="Typing SVG" />
+</p>
 
+---
+
+### 👨‍💻 Who Am I?
+- 🎓 **Academic Background:** Graduated with a Bachelor's in **Business Information Systems (BIS)** (Class of 2023), blending business acumen with technical expertise.
+- 🚀 **Current Focus:** Intensive Data Science & AI Trainee at the prestigious **MCIT Digital Pioneers (Digilians)** program.
+- 💡 **What I Do:** I specialize in extracting, cleaning, modeling, and visualizing complex datasets to uncover strategic business insights.
+- 📫 **How to reach me:** [www.linkedin.com/in/ibrahim-atya]
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Programming & Databases**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R_Programming-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/DAX-00599C?style=for-the-badge&logo=dax&logoColor=white" />
+</p>
+
+**Data Visualization & BI**
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
+
+---
 ### 👨‍💻 Professional Summary
 - 🎓 **Education:** Bachelor of Business Information Systems (BIS), Tanta University (2023).
 - 💼 **Current Role:** Data Analyst at **MCIT Digital Pioneers** (Digilians), cultivated under the highly disciplined environment of the **Egyptian Military Academy**.
