@@ -45,10 +45,52 @@
 </div>
 <hr>
 
-### 🏆 Featured Certifications & Achievements
-- 🥇 **Google:** Introduction to Data Analysis Using Python.
-- 🥇 **IBM:** Delivering Quality Work with Agility.
-- 🥇 **MCIT:** Data Analysis Diploma (Egyptian Military Academy - Ongoing).
+### 🏆 Honors, Certifications & Academic Background
+
+<details open>
+  <summary><strong>👑 Professional Credentials (The Crown Jewel)</strong></summary>
+  <br>
+  <ul>
+    <li>🥇 <strong>Google Data Analytics Professional Certificate (9 Courses)</strong> - Google <em>(Apr 2026)</em> | <a href="https://coursera.org/verify/professional-cert/D4IV806OC8WB" target="_blank">Verify Credential</a>
+      <ul>
+        <li><em>Comprehensive program covering Data Preparation, SQL, Tableau, R Programming, and Python.</em></li>
+      </ul>
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>🤖 Artificial Intelligence & Machine Learning</strong></summary>
+  <br>
+  <ul>
+    <li>🧠 <strong>Introduction to Artificial Intelligence</strong> - Simplilearn <em>(Feb 2026)</em> | Certificate Code: <code>9885996</code></li>
+    <li>🧠 <strong>Accelerate Your Job Search with AI</strong> - Google <em>(Apr 2026)</em> | <a href="https://coursera.org/verify/DPL6ML53N52B" target="_blank">Verify Credential</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>📊 Advanced Data Analytics Specializations (Google)</strong></summary>
+  <br>
+  <ul>
+    <li>📈 <strong>Data Analysis with R Programming</strong> | <a href="https://coursera.org/verify/5XD9P8PRWW9W" target="_blank">Verify</a></li>
+    <li>🐍 <strong>Introduction to Data Analysis Using Python</strong> | <a href="https://coursera.org/verify/J7YQJME2IX1T" target="_blank">Verify</a></li>
+    <li>🎯 <strong>Google Data Analytics Capstone: Complete a Case Study</strong> | <a href="https://coursera.org/verify/871A5A17VZIE" target="_blank">Verify</a></li>
+    <li>🧹 <strong>Process Data from Dirty to Clean</strong> | <a href="https://coursera.org/verify/EJC944BFFUKO" target="_blank">Verify</a></li>
+    <li>🎨 <strong>Share Data Through the Art of Visualization</strong> | <a href="https://coursera.org/verify/J0DXEPX986E2" target="_blank">Verify</a></li>
+    <li>🔍 <strong>Analyze Data to Answer Questions</strong> | <a href="https://coursera.org/verify/2FIVNT3YK3HH" target="_blank">Verify</a></li>
+    <li>📚 <strong>Foundations: Data, Data, Everywhere</strong> | <a href="https://coursera.org/verify/O3QDY5V9I5DR" target="_blank">Verify</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>🎖️ Academic Degree & Government Training</strong></summary>
+  <br>
+  <ul>
+    <li>🎓 <strong>Diploma in Data Analysis</strong> - Egyptian Military Academy & MCIT (Digilians) <em>(Expected Aug 2026)</em></li>
+    <li>🎓 <strong>Bachelor of Business Information Systems (BIS)</strong> - Tanta University <em>(2023)</em></li>
+    <li>💼 <strong>Delivering Quality Work with Agility</strong> - IBM</li>
+  </ul>
+</details>
 
 <hr>
 
