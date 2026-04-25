@@ -28,7 +28,21 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
 </div>
+<hr>
 
+### 📂 Top Featured Projects
+
+<div align="center">
+  <a href="https://github.com/YOUR_USERNAME/ELEVATE-ECommerce-Analytics-PowerBI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=ELEVATE-ECommerce-Analytics-PowerBI&theme=radical" alt="ELEVATE Power BI" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME/HR-Analytics-Dashboard-Excel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=HR-Analytics-Dashboard-Excel&theme=radical" alt="HR Analytics Excel" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME/Sales-Analysis-Excel-Dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Sales-Analysis-Excel-Dashboard&theme=radical" alt="Sales Analytics Excel" />
+  </a>
+</div>
 <hr>
 
 ### 🏆 Featured Certifications & Achievements
