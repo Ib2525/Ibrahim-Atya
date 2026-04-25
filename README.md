@@ -1,5 +1,13 @@
 <div align="center">
   <h1>Hi, I'm Ibrahim Ahmed Atya Karm 👋</h1>
+  <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ib2525&theme=radical&no-frame=true&margin-w=15" alt="trophy" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ib2525&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ib2525&layout=compact&theme=radical&hide_progress=true" alt="top langs" />
+</div>
   <p><strong>Data Analyst | AI Practitioner | BIS Graduate</strong></p>
 </div>
 
